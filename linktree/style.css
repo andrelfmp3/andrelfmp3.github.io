@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Times+New+Roman&display=swap');
 
 :root {
-    --bgColor: #111118;
+    --bgColor: #181822;
     --bgColor2: #000000;
-    --accentColor: #a27c37;
+    --accentColor: #9c823b;
     --font: 'Times New Roman', serif;
     --delay: .3s;
 }
